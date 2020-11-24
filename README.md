@@ -14,7 +14,7 @@ Enjoy this saturday learning about the basics of ML and its some of its most pop
 Click here to learn more.....
 https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
 
--------------------------------------------------------------------XXX---------------------------------------------------------------------------------
+-------------------------------------------------------------------XXX--------------------------------------------------------------------------------------
 # WEEK 3
 AI Saturday's is back with more interesting stuff to read up this weekend!
 For all those deep learning enthusiasts out there, we've some great reading material this week.
@@ -26,7 +26,7 @@ https://ai.facebook.com/blog/-introducing-pytorch3d-an-open-source-library-for-3
 Click Here to Read More ....
 https://www.catalyzex.com/paper/arxiv:2002.01609?fbclid=IwAR1yUUKgLc2smLl4Xr-OX8LmchVnMh_bvE_PXlBqKnx6pDtyNFFkPZYa7Ak
 
-------------------------------------------------------------------XXX------------------------------------------------------------------------------------
+------------------------------------------------------------------XXX------------------------------------------------------------------------------------------
 # WEEK 4
 Have you ever drooled over the idea of how a machine learns from experience? Have you ever thought about the similarities between a human neuron and the artificial neural network? Mind you. They work on the exact same principle!
 AI Saturday's is back with another post on Neural Networks and it's applications.
@@ -42,7 +42,7 @@ https://mathpix.com/?fbclid=IwAR1j_gCuNJhsFBJ6D_3vLFe2me0Kf76Zhg-kx8ioJeOE7Y_Hul
 For learning to use the tool click here..
 https://youtu.be/j5iryTEJPsE
 
-----------------------------------------------------------------XXX------------------------------------------------------------------------------------
+----------------------------------------------------------------XXX-----------------------------------------------------------------------------------------
 # WEEK 5
 Do you want to do something fascinating like Self driving cars,Siri or Alexa? IBM Watson is diagnosing patients better than armies of doctors and Google Deepmind's AlphaGo beat the World champion at Go - a game where 
 intuition plays a key role.Deep Learning can solve such complex problems
@@ -59,7 +59,7 @@ Nowadays, we are witnessing many buzzwords popping up every now and then.'Chatbo
 This video will guide you!
 https://youtu.be/6TVw5vjhlO4
 
----------------------------------------------------------------XXX---------------------------------------------------------------------------------------
+---------------------------------------------------------------XXX-------------------------------------------------------------------------------------------
 # WEEK 6
 In today's day and age of instant image sharing, it's essential to get your tech ready to talk the language of images.
 This is where convolutional neural networks (CNNs) are born.
@@ -67,7 +67,7 @@ This is where convolutional neural networks (CNNs) are born.
  Check out here to know more..
  https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
  
- -------------------------------------------------------------XXX------------------------------------------------------------------------------------------
+ -------------------------------------------------------------XXX---------------------------------------------------------------------------------------------
 # WEEK 7
  Have you ever pondered on the way crime rates are predicted or how recent posts on the analysis of Covid-19 data predict the future state of the number of infections? This is where time-series comes into the picture.
 Click here to read more...
@@ -78,7 +78,7 @@ This week let's get started with another Neural Network - Recurrent Neural Nets.
 Click here to read more how it helps with the above...
 https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce
 
-------------------------------------------------------------XXX-----------------------------------------------------------------------------------------
+------------------------------------------------------------XXX----------------------------------------------------------------------------------------------
 # WEEK 8
 Have you heard Mona Lisa speaking?' Yes! The enigmatic, painted smile of the "Mona Lisa" is known around the world, but that famous face recently displayed a startling new range of expressions, courtesy of artificial intelligence (AI).
 AI Saturdays is back to introduce you all an amazing part of AI - GAN(Generative Adversarial Networks).
